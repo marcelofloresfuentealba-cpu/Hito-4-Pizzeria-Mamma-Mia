@@ -2,6 +2,8 @@ Pizzería Mamma Mía - Hito 4: Consumo de APIs con React
 
 Este proyecto corresponde al Hito 4 del curso de React en Desafío Latam. El objetivo principal es validar los conocimientos sobre el consumo de APIs externas en React mediante useEffect y fetch.
 
+Link del proyecto: https://hito-4-pizzeria-mamma-mia-5ev8.vercel.app/
+
 🚀 Instalación y Configuración
 
 Servidor Backend Para el correcto funcionamiento de la aplicación, es necesario ejecutar el servidor backend provisto:
