@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Margarita",
+    "img": "/img/margarita.jpg",
+    "ingredients": ["mozzarella", "tomate", "albahaca"],
+    "price": 6990,
+    "desc": "Clásica italiana con base de salsa de tomate, mozzarella fresca y hojas de albahaca."
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni",
+    "img": "/img/pepperoni.jpg",
+    "ingredients": ["mozzarella", "pepperoni"],
+    "price": 7990,
+    "desc": "Favorita de muchos: abundante pepperoni sobre una base de queso derretido."
+  },
+  {
+    "id": 3,
+    "name": "Cuatro Quesos",
+    "img": "/img/cuatroquesos.jpg",
+    "ingredients": ["mozzarella", "gorgonzola", "parmesano", "provolone"],
+    "price": 8990,
+    "desc": "Mezcla cremosa de 4 quesos que se funden en una experiencia potente."
+  },
+  {
+    "id": 4,
+    "name": "Hawaiana",
+    "img": "/img/hawaiana.jpg",
+    "ingredients": ["jamón", "piña", "mozzarella"],
+    "price": 8290,
+    "desc": "Dulce y salada: jamón, piña y queso en balance perfecto."
+  },
+  {
+    "id": 5,
+    "name": "Vegetariana",
+    "img": "/img/vegetariana.jpg",
+    "ingredients": ["pimentón", "champiñón", "aceitunas", "cebolla"],
+    "price": 7790,
+    "desc": "Fresca y colorida con verduras salteadas y aceitunas."
+  },
+  {
+    "id": 6,
+    "name": "BBQ Pollo",
+    "img": "/img/bbqpollo.jpg",
+    "ingredients": ["pollo", "salsa BBQ", "cebolla morada"],
+    "price": 9490,
+    "desc": "Base de BBQ, pollo jugoso y cebolla morada para un toque ahumado."
+  },
+  {
+    "id": 7,
+    "name": "Napolitana",
+    "img": "/img/napolitana.jpg",
+    "ingredients": ["tomate", "mozzarella", "orégano", "ajo"],
+    "price": 7590,
+    "desc": "Sencilla y sabrosa con tomate en rodajas, ajo y orégano."
+  },
+  {
+    "id": 8,
+    "name": "Fugazzeta",
+    "img": "/img/fugazzeta.jpg",
+    "ingredients": ["cebolla", "mozzarella", "orégano"],
+    "price": 8290,
+    "desc": "Estilo rioplatense: mucha cebolla caramelizada y queso."
+  }
+]
